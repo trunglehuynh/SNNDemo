@@ -1,1 +1,1 @@
-<command type="vmover+" period="30" />
+<command type="ValveMoveRelativePos" period="30" />
